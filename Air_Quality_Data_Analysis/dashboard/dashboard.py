@@ -4,13 +4,12 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import numpy as np
 import plotly.express as px
-from babel.numbers import format_currency
 sns.set(style='dark')
 
 # Title page
 st.set_page_config(page_title="Air Quality Index Analysis by dhimas_pram71")
 # Load dataset
-data = pd.read_csv("Projek_Dicoding\Final_data.csv")
+data = pd.read_csv("Final_data.csv")
 
 # Title of the dashboard
 st.title('Air Quality Analysis Dashboard  :sparkles:')
