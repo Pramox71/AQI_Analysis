@@ -15,7 +15,7 @@ Follow the steps below to set up and run the project in your local environment.
 First, clone the project repository from GitHub to your local machine:
 
 `bash
-git clone https://github.com/Pramox71/Bangkit.git
+git clone https://github.com/Pramox71/AQI_Analysis.git
 cd Air_Quality_Data_Analysis`
 
 ### 2. Create a virtual environment named 'env'
